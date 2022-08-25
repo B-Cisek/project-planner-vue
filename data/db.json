@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "title": "Do homework",
+      "details": "Lorem ipsum Lorem ipsum Lorem ipsum",
+      "complete": false,
+      "id": 1
+    },
+    {
+      "title": "Send a email",
+      "details": "Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum",
+      "complete": false,
+      "id": 2
+    }
+  ]
+}
